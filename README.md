@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Becker</h1>
 <h3 align="center">a software engineer-woodworker-artist-gamer</h3>
 
-- 🔭 I’m currently working on a **Text Display Plugin-an app to dynamically change text for videos and livestreams**
+- 🔭 I’m currently working on a **Wooden Ring Design app for people to design and save their very own wooden rings.**
 
 - 👯 I’m looking to contribute to **Open Source software**
 
